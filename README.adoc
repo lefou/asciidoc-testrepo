@@ -1,4 +1,7 @@
 = Test Repo
+:toc:
+:toc-placement: preamble
+:anothervar: another-var-content
 
 Preamble
 
@@ -13,3 +16,5 @@ Hello
 Addition in test branch.
 
 Added another line.
+
+Content of `anothervar`: `{anothervar}`
