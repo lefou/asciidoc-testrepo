@@ -17,4 +17,4 @@ Addition in test branch.
 
 Added another line.
 
-Content of `anothervar`: `{anothervar}`
+Content of `anothervar`: `{anothervar}`, {anothervar}
