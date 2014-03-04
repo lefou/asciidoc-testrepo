@@ -11,6 +11,8 @@ Hello
 
 == Header 2
 
+Link to link:AnotherReadme.adoc.
+
 === Test.
 
 Addition in test branch.
