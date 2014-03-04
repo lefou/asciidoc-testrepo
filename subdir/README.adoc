@@ -1,0 +1,5 @@
+= Sub Dir README
+
+Link to link:../README.adoc[parent README.adoc].
+
+Link to a link:same-dir-file.md[file in the same dir].
