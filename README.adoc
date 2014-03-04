@@ -11,7 +11,7 @@ Hello
 
 == Header 2
 
-Link to link:AnotherReadme.adoc.
+Link to link:AnotherReadme.adoc[].
 
 === Test.
 
