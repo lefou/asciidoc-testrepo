@@ -13,7 +13,7 @@ Hello
 
 Link to link:AnotherReadme.adoc[].
 
-Same link as xref: <<AnotherReadme#>> and <<AnotherReadme.adoc#>>
+Same link as xref: <<AnotherReadme#>> and <<AnotherReadme.adoc#>>, <<AnotherReadme#, AnotherReadme>>
 
 === Test.
 
