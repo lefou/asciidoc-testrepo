@@ -2,4 +2,4 @@
 
 Link to link:subdir/README.adoc[subdir readme].
 
-<<AnotherReadme#_test, Test section of AnotherReadme>>
+<<README#_test, Test section of README>>
