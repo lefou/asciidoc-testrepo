@@ -13,6 +13,8 @@ Hello
 
 Link to link:AnotherReadme.adoc[].
 
+Same link as xref: <<AnotherReadme>> and <<AnotherReadme.adoc>>
+
 === Test.
 
 Addition in test branch.
