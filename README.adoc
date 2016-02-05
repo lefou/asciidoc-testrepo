@@ -22,3 +22,11 @@ Addition in test branch.
 Added another line.
 
 Content of `anothervar`: `{anothervar}`, {anothervar}
+
+=== Attributes
+
+relpathprefix: {relpathprefix} +
+relpathsuffix: {relpathsuffix} +
+env: {env} +
+env-gitbucket: {env-gitbucket} +
+gitbucket-branch: {gitbucket-branch} +
